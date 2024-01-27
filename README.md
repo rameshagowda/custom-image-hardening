@@ -1,0 +1,3 @@
+# Simple Azure Custom image builder using Packer
+Custom image builder is also called Generalization of Image. This is used as a template to install prerequisites for any virtual machines or VDI. This also help harden the image for security reasons. 
+Packer is an open source tool for creating identical machine images for multiple platforms from a single source configuration. Packer is lightweight, runs on every major operating system, and is highly performant, creating machine images for multiple platforms in parallel.
